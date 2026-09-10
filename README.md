@@ -46,7 +46,7 @@ While fixing bugs on a customer's computer, I signed in to the customer's 悠悠
 
 In my experience, settings such as allowing remote control and launching at startup were enabled after sign-in, with controls spread across the main interface and separate settings pages. I also observed the application running without a visible Dock or menu bar icon. This raised concerns about unnoticed access risks over the preceding months, and about what happens when the Mac is locked or asleep.
 
-This is a personal account, not a verification of default behavior across all versions. It does not establish that unauthorized access continued throughout those months or occurred during sleep. It also prompted questions about permission settings in similar tools such as ToDesk.
+This is a personal account, not a verification of default behavior across all versions. It does not establish that unauthorized access continued throughout those months or occurred during sleep. It also prompted questions about permission settings in similar tools such as ToDesk. I wanted to check actual behavior rather than rely on visible windows or icons.
 
 I created this prompt to help an AI inspect the computer's current state, identify less-visible background activity and risks, and return a detailed report. Users can then decide what to disable, uninstall or investigate. **The prompt only inspects and reports; it does not perform those actions.**
 
